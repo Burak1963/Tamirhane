@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4189D1B2-1F79-4C73-99BF-22AB8246C091}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tamirhane_2.My.MyApplication</StartupObject>
+    <RootNamespace>Tamirhane_2</RootNamespace>
+    <AssemblyName>Tamirhane_2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tamirhane_2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tamirhane_2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.Designer.vb">
+      <DependentUpon>Anasayfa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa_Buton.Designer.vb">
+      <DependentUpon>Anasayfa_Buton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfa_Buton.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac_servisiDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>arac_servisiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="arac_servisiDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>arac_servisiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ayarlar.Designer.vb">
+      <DependentUpon>Ayarlar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ayarlar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatabaseHelper.vb" />
+    <Compile Include="GecmisServis.Designer.vb">
+      <DependentUpon>GecmisServis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GecmisServis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriArabaBilgileri.Designer.vb">
+      <DependentUpon>MusteriArabaBilgileri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriArabaBilgileri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracBilgileri.Designer.vb">
+      <DependentUpon>AracBilgileri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AracBilgileri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisPaneli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisPaneli.Designer.vb">
+      <DependentUpon>GirisPaneli.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriBilgileri.Designer.vb">
+      <DependentUpon>MusteriBilgileri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriBilgileri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ServisBilgileri.Designer.vb">
+      <DependentUpon>ServisBilgileri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServisBilgileri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anasayfa_Buton.resx">
+      <DependentUpon>Anasayfa_Buton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayarlar.resx">
+      <DependentUpon>Ayarlar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GecmisServis.resx">
+      <DependentUpon>GecmisServis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriArabaBilgileri.resx">
+      <DependentUpon>MusteriArabaBilgileri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracBilgileri.resx">
+      <DependentUpon>AracBilgileri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisPaneli.resx">
+      <DependentUpon>GirisPaneli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriBilgileri.resx">
+      <DependentUpon>MusteriBilgileri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServisBilgileri.resx">
+      <DependentUpon>ServisBilgileri.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="arac_servisiDataSet.xsc">
+      <DependentUpon>arac_servisiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="arac_servisiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>arac_servisiDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="arac_servisiDataSet.xss">
+      <DependentUpon>arac_servisiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="arac_servisiDataSet1.xsc">
+      <DependentUpon>arac_servisiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="arac_servisiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>arac_servisiDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="arac_servisiDataSet1.xss">
+      <DependentUpon>arac_servisiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kaydet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AracBilgileri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Musteriler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ServisGiris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ServisBilgileri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ServisCikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kasa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anasayfa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main-page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-page-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Güncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-align.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-change-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-payment-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-login-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ab27f7b566a9d16a396b95ccff10672.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\catering.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

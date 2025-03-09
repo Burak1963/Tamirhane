@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tamirhane_2
+</name>
+</assembly>
+<members>
+<member name="T:Tamirhane_2.My.Resources.Resources">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources._4ab27f7b566a9d16a396b95ccff10672">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.anasayfa">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.AracBilgileri">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.catering">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Güncelle">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.icons8_change_50">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.icons8_close_45">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.icons8_home_page_64">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.icons8_login_48">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.icons8_payment_45">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Kasa">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Kaydet">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.left_align">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.main_page">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Musteriler">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.ServisBilgileri">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.ServisCikis">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.ServisGiris">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.Sil">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Tamirhane_2.My.Resources.Resources.text">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet.ModellerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet.ModellerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet.ModellerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSetTableAdapters.ModellerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Tamirhane_2.arac_servisiDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Tamirhane_2.arac_servisiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Tamirhane_2.arac_servisiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.UpdateAll(Tamirhane_2.arac_servisiDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1.MarkalarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1.MarkalarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1.MarkalarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1TableAdapters.MarkalarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Tamirhane_2.arac_servisiDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Tamirhane_2.arac_servisiDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Tamirhane_2.arac_servisiDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.UpdateAll(Tamirhane_2.arac_servisiDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Tamirhane_2.arac_servisiDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,132 @@
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\source\repos\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Odeme.resources
+C:\Users\burak\OneDrive\Masaüstü\OTOMASYONLAR\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Odeme.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GecmisServis.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Kasa.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Ayarlar.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GecmisServis.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Ayarlar.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GecmisServis.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Ayarlar.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GecmisServis.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\OneDrive\Masaüstü\Ormetal-2\Tamirhane\Tamirhane\Tamirhane Otomasyonu Visual Basic Musteri ve Araç Bilgileri ayrı ayrı - Kopya\Tamirhane Otomasyonu Visual Basic\Tamirhane_2\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\bin\Debug\Tamirhane_2.exe.config
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\bin\Debug\Tamirhane_2.exe
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\bin\Debug\Tamirhane_2.pdb
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\bin\Debug\Tamirhane_2.xml
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.AssemblyReference.cache
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.Anasayfa_Buton.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.Ayarlar.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.GecmisServis.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriArabaBilgileri.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.AracBilgileri.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.GirisPaneli.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.MusteriBilgileri.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.Resources.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.ServisBilgileri.resources
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.GenerateResource.cache
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.vbproj.CoreCompileInputs.cache
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.exe
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.xml
+C:\Users\burak\Downloads\Bilgisayardan kalanlar\Tamirhane_\Tamirhane_2\obj\Debug\Tamirhane_2.pdb
